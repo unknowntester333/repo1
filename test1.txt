@@ -1,0 +1,11 @@
+ Volume in drive D has no label.
+ Volume Serial Number is 19BB-8860
+
+ Directory of D:\python_project1
+
+24-02-2018  10:31    <DIR>          .
+24-02-2018  10:31    <DIR>          ..
+24-02-2018  10:31    <DIR>          .git
+24-02-2018  10:31                 0 test1.txt
+               1 File(s)              0 bytes
+               3 Dir(s)  64,586,919,936 bytes free
